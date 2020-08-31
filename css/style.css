@@ -1,0 +1,265 @@
+*{margin:0px;padding:0px;}
+
+
+
+@font-face {
+    font-family:"helveticaneue";
+    src: url(../fonts/HelveticaNeue.ttf);
+}
+
+
+
+/*header*/
+
+
+
+
+header{
+    
+    height:150px;
+   width:70%;
+    margin: 0px auto;
+
+}
+
+
+.buttons_logo{
+height:100px;
+border-bottom:2px solid #d4d4d4;
+
+}
+
+.logo{    padding: 20px 0px 20px 0px;
+    float:left;
+width:200px;
+    height:50px;
+}
+.logo h1{
+
+font-size:45px;
+float:right;
+}
+
+
+.buttons{
+    
+padding: 20px 0px 20px 0px;
+float:right;
+}
+
+
+
+
+
+.nav{
+clear: both;
+    height:80px;
+    float:left;
+width:700px;
+
+}
+
+.nav ul{
+    list-style: none;
+     
+
+}
+.nav ul li{
+float:left;
+margin: 30px 30px;
+ text-decoration-style:none; 
+}
+
+.nav ul li:first-child{
+margin-left:0px;}
+
+.nav ul li:last-child{
+margin-right:0px;}
+
+
+
+.nav ul li a{text-decoration: none;
+display: block;
+    color:#555555;
+}
+
+
+.nav ul li a:hover{
+
+color:#2ECC71;
+
+}
+
+
+.middle_section{
+width:100%;
+margin-bottom:70px;
+}
+
+
+.mian_image{
+
+}
+
+.mian_image img{
+width:100%;
+margin-bottom:50px;
+}
+
+.image_caption{
+width:720px;
+margin:0px auto;
+line-height: 1.5;
+
+}
+.image_caption p{
+  text-align: center;  
+font-family: "helveticaneue";
+    font-size: 20px;
+    
+   color:#716f6f;
+
+}
+.btn a{
+text-decoration: none;
+color:white;
+display: block;
+
+}
+
+
+.btn {
+width:250px;
+height:40px;
+background-color:#2ECC71;
+    color:white;
+font-size:25px;
+text-align: center;
+margin:0px auto;
+margin-top:50px;
+    padding:10px 20px;
+    padding-bottom:0px;
+}
+
+
+
+
+.bottom_section{
+    padding: 40px;
+    height:250px;
+background-color: #e5e4e4;
+}
+
+.bottom_image_text{
+
+width:600px;
+    
+
+    float: right;
+    margin-right:20%;
+}
+
+
+
+.bottom_image p{
+
+font-family: "helveticaneue";
+}
+
+.bottom_image h1{
+color:#555555;
+}
+
+.bottom_image img{
+float:left;
+margin-left: 12%;
+
+
+}
+
+
+
+
+.bottom_panel{
+
+height:150px;
+width:100%;
+    
+background-color: #2f2b2b;
+}
+
+.bottom_panel h1{
+   padding-top:50px; 
+color:white;
+float:left;
+    padding-left:20%;
+    
+}
+
+
+.bottom_panel .btn{
+
+width:250px;
+    float:right;
+     margin-right:20%;
+    padding-bottom:0px;
+}
+
+
+
+footer{
+height:100px;
+font-size: 20px;
+color:#716f6f;
+}
+
+
+
+
+footer .f_left{
+margin:40px 0px 0px 0px;
+float:left;
+    padding-left:20%;
+    
+}
+
+
+footer .f_right{
+margin:40px 0px 0px 0px;
+    
+    float:right;
+     margin-right:20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
